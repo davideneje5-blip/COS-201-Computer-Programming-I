@@ -6,7 +6,7 @@
 
 ## Student Information
 
-- **Full Name:** `Eneje David Ugonna`
+- **Full Name:** `ENEJE DAVID UGONNA`
 - **Matriculation Number:** `25/17922`
 - **Programme of Study:** `Cybersecurity`
 - **Course Code:** `COS 201`
